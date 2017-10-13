@@ -1,4 +1,5 @@
-
+// kod na jsbin-u
+// https://jsbin.com/wavuyo/edit?js,console
 
 // kada se opali funkcija takeOrder 
 // orderCount se povecava za 1
